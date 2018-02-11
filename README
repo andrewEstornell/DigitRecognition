@@ -1,0 +1,2 @@
+Use: Requires tensorflow library
+     To test draw your own digit, change the file path of the png
